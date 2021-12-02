@@ -1,4 +1,4 @@
-- 👋 Hi, I’m @filip2cz
+- 👋 Hi, I’m Filip Komárek
 - 👀 I’m interested in Linux
 - 🌱 I’m currently learning C#
 - 💞️ I’m looking to collaborate on ...
