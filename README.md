@@ -1,6 +1,6 @@
 - 👋 Hi, I’m Filip Komárek
 - 👀 I’m interested in Linux
-- 🌱 I’m currently learning C# and python
+- 🌱 I’m currently learning C# and Shell
 - 💞️ I’m looking to collaborate on ...
 - 📫 How to reach me ...
 
