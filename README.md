@@ -1,5 +1,5 @@
 - 👋 Hi, I’m Filip Komárek
-- 👀 I’m interested in Linux
+- 👀 I’m interested in Linux and operating systems at all
 - 🌱 I’m currently learning C# and Shell
 
 <!---
