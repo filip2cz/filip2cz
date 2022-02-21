@@ -6,6 +6,8 @@
 # My setup
 - Desktop: Windows 10
 - Notebook: GeckoLinux Rolling
+- Server: Ubuntu 20.04
+- Orange Pi: Armbian
 
 <!---
 filip2cz/filip2cz is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
