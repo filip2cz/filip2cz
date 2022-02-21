@@ -2,7 +2,7 @@
 - 👀 I’m interested in Linux and operating systems at all
 - 🌱 I’m currently learning C# and Shell
 
-_My setup_
+#My setup
 - Desktop: Windows 10
 - Notebook: GeckoLinux Rolling
 
