@@ -1,8 +1,9 @@
+# About me
 - 👋 I’m Filip Komárek
 - 👀 I’m interested in Linux and operating systems at all
 - 🌱 I’m currently learning C# and Shell
 
-#My setup
+# My setup
 - Desktop: Windows 10
 - Notebook: GeckoLinux Rolling
 
