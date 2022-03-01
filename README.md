@@ -5,7 +5,7 @@
 
 # My setup
 - Desktop: Windows 10
-- Notebook: GeckoLinux Rolling
+- Notebook: GeckoLinux Rolling (based on openSUSE Tumbleweed)
 - Server: Ubuntu 20.04
 - Orange Pi: Armbian
 
