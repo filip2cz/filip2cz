@@ -1,7 +1,7 @@
 # About me
 - 👋 I’m Filip Komárek
 - 👀 I’m interested in Linux and operating systems at all
-- 🌱 I’m currently learning C# and Shell
+- 🌱 I’m currently learning C and Shell Scripts
 
 # Operating systems I can handle
 - Linux: I use it on my laptop and on servers
