@@ -12,8 +12,8 @@ I don't really like dualboot, because rebooting the OS is annoying and multitask
 
 # My setup
 - Desktop: Windows 10
-- Notebook: GeckoLinux Rolling (based on openSUSE Tumbleweed)
-- Server: Ubuntu 20.04
+- Notebook: Pop!_OS
+- Servers: Ubuntu 20.04 / openSUSE Leap 15.3
 - Orange Pi: Armbian
 
 <!---
