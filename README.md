@@ -11,8 +11,8 @@
 I don't really like dualboot, because rebooting the OS is annoying and multitasking is a problem
 
 # My setup
-- Desktop: Windows 10
-- Notebook: Pop!_OS
+- Desktop: Windows 10 (and I don't like it)
+- Notebook: openSUSE Leap 15.4
 - Servers: Ubuntu 20.04 / openSUSE Leap 15.3
 - Orange Pi: Armbian
 
