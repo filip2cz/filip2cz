@@ -3,7 +3,7 @@
 - I’m interested in Linux and operating systems at all
 - I’m currently learning Bash, C# and Powershell scripts
 
-![Languages chart](https://wakatime.com/share/@filip2cz/53b4c32b-7e3d-47ff-9db0-3cfc487a31e7.png)
+![Languages chart](https://wakatime.com/share/@filip2cz/3b1a8eb0-17a6-4ea2-8926-8a97644ee6c2.svg)
 
 # Operating systems I can handle
 - Linux: I use it on my notebook and on servers
@@ -12,7 +12,7 @@
 
 I don't really like dualboot, because rebooting the OS is annoying and multitasking is a problem
 
-![Operating systems chart](https://wakatime.com/share/@filip2cz/7c28dba6-15fa-4cad-8018-3bf092d3192f.png)
+![Operating systems chart](https://wakatime.com/share/@filip2cz/f4659a14-5b0f-4c99-8d2d-2080fdb30ef6.svg)
 
 # My setup
 - Desktop: Windows 10 (and I don't like it)
