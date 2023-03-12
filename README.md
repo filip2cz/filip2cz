@@ -12,7 +12,7 @@
 
 I don't really like dualboot, because rebooting the OS is annoying and multitasking is a problem
 
-![Operating systems chart](https://wakatime.com/share/@filip2cz/72d00a53-a7a2-46d5-ad56-0fe21ef4ec77.png)
+![Operating systems chart](https://wakatime.com/share/@filip2cz/b50e26b9-f377-453b-b1ee-dcaba90bcb57.png)
 
 # My setup
 - Desktop: Windows 10 (and I don't like it)
