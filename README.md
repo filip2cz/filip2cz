@@ -10,7 +10,7 @@
 - Windows: I have it on my desktop :( bcs. videogames
 - FreeBSD: basic knowledge and operability
 
-I don't really like dualboot, because rebooting the OS is annoying and multitasking is a problem
+I don't really like dualboot, because rebooting the OS is annoying and problematic multitasking, so I am stuck on Windows on some devices for this reason.
 
 ![Operating systems chart](https://wakatime.com/share/@filip2cz/e557d232-c890-4518-883d-5c5bd14bdb50.png)
 
