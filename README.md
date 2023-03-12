@@ -3,8 +3,6 @@
 - I’m interested in Linux and operating systems at all
 - I’m currently learning Bash, C# and Powershell scripts
 
-![Languages chart](https://wakatime.com/share/@filip2cz/3b1a8eb0-17a6-4ea2-8926-8a97644ee6c2.svg)
-
 # Operating systems I can handle
 - Linux: I use it on my notebook and on servers
 - Windows: I have it on my desktop :( bcs. videogames
@@ -17,6 +15,8 @@ I don't really like dualboot, because rebooting the OS is annoying and problemat
 - Notebook: openSUSE Leap 15.4
 - Servers: openSUSE Leap 15.4 / Ubuntu 22.04
 - Orange Pi: Armbian, Debian
+
+![Languages chart](https://wakatime.com/share/@filip2cz/3b1a8eb0-17a6-4ea2-8926-8a97644ee6c2.svg)
 
 <!---
 filip2cz/filip2cz is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
