@@ -16,7 +16,7 @@ I don't really like dualboot, because rebooting the OS is annoying and problemat
 - Servers: openSUSE Leap 15.4 / Ubuntu 22.04
 - Orange Pi: Armbian, Debian
 
-![Languages chart](https://wakatime.com/share/@filip2cz/3b1a8eb0-17a6-4ea2-8926-8a97644ee6c2.svg?1)
+![Languages chart](https://wakatime.com/share/@filip2cz/3b1a8eb0-17a6-4ea2-8926-8a97644ee6c2.svg?2)
 
 <!---
 filip2cz/filip2cz is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
