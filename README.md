@@ -12,6 +12,7 @@ I don't really like dualboot, because rebooting the OS is annoying and problemat
 
 # My setup
 - Desktop: Windows 10 (and I don't like it, but videogames)
+  - more info: http://fkomarek.eu/pc.php
 - Notebook - personal: Windows 10 (bcs. NVidia can't create working drivers for linux)
 - Notebook - work: Windows 10 (bcs. I have to)
 - Servers: openSUSE / Ubuntu / Alpine
