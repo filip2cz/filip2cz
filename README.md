@@ -1,3 +1,5 @@
+if you do not like Microsoft, here is Gitea mirror of this profile: [git.envs.net/filip2cz](https://git.envs.net/filip2cz)
+
 # About me
 - I’m Filip Komárek
 - I’m interested in Linux and operating systems at all
@@ -18,7 +20,7 @@ I don't really like dualboot, because rebooting the OS is annoying and problemat
 - Servers: openSUSE / Ubuntu / Alpine
 - Orange Pi: Armbian, Debian
 
-![Languages chart](https://wakatime.com/share/@filip2cz/3b1a8eb0-17a6-4ea2-8926-8a97644ee6c2.svg?8)
+![Languages chart](https://wakatime.com/share/@filip2cz/3b1a8eb0-17a6-4ea2-8926-8a97644ee6c2.svg?9)
 
 <!---
 filip2cz/filip2cz is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
