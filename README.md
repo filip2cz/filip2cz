@@ -13,9 +13,9 @@ If you do not like Microsoft, here is Gitea mirror of this profile: [git.envs.ne
 I don't really like dualboot, because rebooting the OS is annoying and problematic multitasking, so I am stuck on Windows on some devices for this reason.
 
 # My setup
-- Desktop: Windows 11 (and I don't like it, but videogames)
+- Desktop: Windows 10 (and I don't like it, but videogames)
   - more info: http://fkomarek.eu/pc.php
-- Notebook - personal: Windows 10 (bcs. NVidia can't create working drivers for linux)
+- Notebook - personal: Windows 11 (bcs. NVidia can't create working drivers for linux)
 - Notebook - work: Windows 10 (bcs. I have to)
 - Servers: openSUSE / Ubuntu / Alpine
 - Orange Pi: Armbian, Debian
