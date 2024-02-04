@@ -1,4 +1,4 @@
-If you do not like Microsoft, here is Gitea mirror of this profile: [git.envs.net/filip2cz](https://git.envs.net/filip2cz)
+If you do not like Microsoft, here is Gitea mirror of this profile: [git.envs.net/fkomarek](https://git.envs.net/fkomarek)
 
 # About me
 - I’m Filip Komárek
