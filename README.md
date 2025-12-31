@@ -3,7 +3,7 @@ If you do not like Microsoft, here is Gitea mirror of this profile: [git.envs.ne
 # About me
 - I’m Filip Komárek
 - I’m interested in Linux and operating systems at all
-- I’m currently learning C#
+- Studying at Czech Technical University - Faculty Of Electrical Engineering
 
 I don't really like dualboot, because rebooting the OS is annoying and problematic multitasking, so I am stuck on Windows on some devices for this reason.
 
