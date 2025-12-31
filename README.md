@@ -5,8 +5,6 @@ If you do not like Microsoft, here is Gitea mirror of this profile: [git.envs.ne
 - I’m interested in Linux and operating systems at all
 - Studying at Czech Technical University - Faculty Of Electrical Engineering
 
-I don't really like dualboot, because rebooting the OS is annoying and problematic multitasking, so I am stuck on Windows on some devices for this reason.
-
 <!---
 # My setup
 - Desktop: Windows 10 (and I don't like it, but videogames)
